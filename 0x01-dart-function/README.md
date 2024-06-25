@@ -3,7 +3,6 @@
 ## Overview
 This directory contains exercises to practice defining and using functions in Dart. Each file corresponds to a specific exercise with clearly defined objectives.
 
-
 ## Projects :
 0. Hello Function
 1. Concatenate Strings
