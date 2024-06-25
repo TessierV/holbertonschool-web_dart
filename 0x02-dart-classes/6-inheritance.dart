@@ -14,7 +14,8 @@ class User {
       'id': id,
       'name': name,
       'age': age,
-      'height': height
+      'height': height,
+      'user_password': user_password,
     };
   }
 
@@ -24,7 +25,7 @@ class User {
       name: userJson['name'],
       age: userJson['age'],
       height: userJson['height'],
-      user_password: '',
+      user_password: userJson['user_password'],
     );
   }
 
