@@ -14,8 +14,7 @@ class User {
       'id': id,
       'name': name,
       'age': age,
-      'height': height,
-      'user_password': user_password
+      'height': height
     };
   }
 
